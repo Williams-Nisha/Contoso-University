@@ -1,0 +1,9 @@
+E:\college\CIT301C\CIT301\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.deps.json
+E:\college\CIT301C\CIT301\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.json
+E:\college\CIT301C\CIT301\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.dev.json
+E:\college\CIT301C\CIT301\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.dll
+E:\college\CIT301C\CIT301\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.pdb
+E:\college\CIT301C\CIT301\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.csprojResolveAssemblyReference.cache
+E:\college\CIT301C\CIT301\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.AssemblyInfo.cs
+E:\college\CIT301C\CIT301\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.dll
+E:\college\CIT301C\CIT301\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.pdb
